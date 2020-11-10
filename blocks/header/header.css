@@ -1,0 +1,8 @@
+.header {
+  box-sizing: border-box;
+  min-width: 320px;
+  padding: 35px 25px 16px 28px;
+  background-color: #1B2944;
+  display: flex;
+  justify-content: space-between;
+}
