@@ -6,3 +6,17 @@
   flex-direction: column;
   align-items: center;
 }
+
+@media screen and (min-width: 1024px) {
+  .hero__container {
+    flex-direction: row-reverse;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .hero__container {
+    padding-top: 68px;
+    padding-bottom: 55px;
+    align-items: flex-start;
+  }
+}
