@@ -2,7 +2,6 @@
   box-sizing: border-box;
   padding-top: 35px;
   padding-bottom: 35px;
-  background-color: #1B2944;
   display: flex;
   justify-content: space-between;
 }
