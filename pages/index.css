@@ -25,3 +25,11 @@
 
 @import url("../blocks/consultation/consultation.css");
 @import url("../blocks/consultation/_place_hero/consultation_place_hero.css");
+
+@import url("../blocks/features/features.css");
+@import url("../blocks/features/__container/features__container.css");
+@import url("../blocks/features/__title/features__title.css");
+@import url("../blocks/features/__items/features__items.css");
+
+@import url("../blocks/features-card/__title/features-card__title.css");
+@import url("../blocks/features-card/__text/features-card__text.css");
