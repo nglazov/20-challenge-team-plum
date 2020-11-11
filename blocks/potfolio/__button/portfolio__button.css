@@ -12,6 +12,10 @@
   border: 0;
 }
 
+.portfolio__button:hover {
+  cursor: pointer;
+}
+
 @media only screen and (min-width: 1024px) {
   .portfolio__button {
     padding: 10px 25px;
