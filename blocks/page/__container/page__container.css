@@ -1,5 +1,6 @@
 .page__container {
-  box-sizing: border-box;
   min-width: 320px;
-  padding: 35px 25px 35px 28px;
+  padding-left: 28px;
+  padding-right: 25px;
+  box-sizing: border-box;
 }
