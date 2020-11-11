@@ -1,2 +1,18 @@
 @import url('../vendor/normalize.css');
 @import url('../vendor/fonts.css');
+
+/* Page */
+
+@import url('../blocks/page/page.css');
+
+/* Portfolio */
+
+@import url('../blocks/potfolio/portfolio.css');
+@import url('../blocks/potfolio/__wrapper/portfolio__wrapper.css');
+@import url('../blocks/potfolio/__card/portfolio__card.css');
+@import url('../blocks/potfolio/__cards/portfolio__cards.css');
+@import url('../blocks/potfolio/__content/portfolio__content.css');
+@import url('../blocks/potfolio/__header/portfolio__header.css');
+@import url('../blocks/potfolio/__image/portfolio__image.css');
+@import url('../blocks/potfolio/__subtitle/portfolio__subtitle.css');
+@import url('../blocks/potfolio/__button/portfolio__button.css');

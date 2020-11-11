@@ -1,0 +1,22 @@
+.portfolio__header {
+  padding-top: 61px;
+  margin:0 0 35px;
+  color: white;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 19px;
+  line-height: 22px;
+}
+
+@media only screen and (min-width: 460px) {
+  .portfolio__header {
+    font-size: 36px;
+    line-height: 42px;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .portfolio__header {
+    margin-bottom: 54px;
+  }
+}

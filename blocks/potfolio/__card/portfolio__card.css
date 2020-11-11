@@ -1,0 +1,20 @@
+.portfolio__card {
+  position: relative;
+  margin-bottom: 33px;
+}
+
+.portfolio__card:nth-child(3n) {
+  margin-bottom: 89px;
+}
+
+@media only screen and (min-width: 1024px) {
+  .portfolio__card {
+    margin-right: 16px;
+    margin-bottom: 0px;
+    }
+
+    .portfolio__card:nth-child(3n) {
+      margin-bottom: 0px;
+      margin-right: 0px;
+  }
+}

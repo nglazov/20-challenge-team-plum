@@ -1,0 +1,20 @@
+.portfolio {
+  background-color: #1B2944;
+  display: flex;
+  flex-flow: column;
+  box-sizing: border-box;
+}
+
+@media only screen and (min-width: 460px) {
+  .portfolio {
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .portfolio {
+    align-items: flex-start;
+    justify-content: center;
+  }
+}
