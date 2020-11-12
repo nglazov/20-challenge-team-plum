@@ -1,0 +1,9 @@
+.footer__subtitle {
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 21px;
+  margin: 0;
+  padding-bottom: 12px;
+}
