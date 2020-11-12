@@ -1,0 +1,7 @@
+.header__container {
+  box-sizing: border-box;
+  padding-top: 35px;
+  padding-bottom: 35px;
+  display: flex;
+  justify-content: space-between;
+}
