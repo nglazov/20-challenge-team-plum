@@ -1,6 +1,19 @@
 .gallery__wrapper {
-  margin: 0 26px 0 27px;
-  padding-top: 35px;
+  padding-bottom: 15px;
+
+  overflow-y: auto;
+  scroll-snap-type: x mandatory;
+}
+
+.gallery__wrapper::-webkit-scrollbar {
+  height: 4px;
+  background-color:  #CECECE;
+}
+
+.gallery__wrapper::-webkit-scrollbar-thumb {
+  height: 4px;
+  width: 53px;
+  background-color: #FFBB01;
 }
 
 @media only screen and (min-width: 450px) {

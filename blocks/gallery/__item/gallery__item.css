@@ -1,6 +1,11 @@
 .gallery__item {
   width: 126px;
   height: 126px;
+  margin-right: 15px;
+}
+
+.gallery__item:last-child {
+  margin-right: 0;
 }
 
 @media only screen and (min-width: 450px) {

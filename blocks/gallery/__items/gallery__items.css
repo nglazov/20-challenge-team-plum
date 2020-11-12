@@ -1,13 +1,8 @@
 .gallery__items {
+  display: flex;
   list-style: none;
+  margin: 0;
   padding: 0;
-  margin: 0 0 15px;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-gap: 15px;
-  overflow-y: hidden;
-  grid-auto-flow: column;
-  scroll-snap-type: x mandatory;
 }
 
 @media only screen and (min-width: 450px) {
