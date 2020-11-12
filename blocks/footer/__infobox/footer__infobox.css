@@ -1,0 +1,7 @@
+.footer__infobox {
+  padding-bottom: 22px;
+}
+
+.footer__infobox:nth-child(2n) {
+  padding-bottom: 36px;
+}

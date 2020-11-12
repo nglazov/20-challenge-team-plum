@@ -1,0 +1,14 @@
+.footer__links {
+  text-decoration: none;
+  transition: 0.2s;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+  color: white;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.footer__links:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}

@@ -1,0 +1,12 @@
+.consultation_place_footer {
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+@media screen and (min-width: 1280px) {
+  .consultation_place_footer {
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+}
