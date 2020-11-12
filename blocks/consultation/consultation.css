@@ -1,0 +1,20 @@
+.consultation {
+  text-transform: uppercase;
+  box-sizing: border-box;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 10px;
+  line-height: 130%;
+  color: #1B2944;
+  border: none;
+  background: #FFBB01;
+  box-shadow: 0px 4px 0px #B68500;
+  border-radius: 10px;
+  transition: 0.2s;
+}
+
+.hero__consultation:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
