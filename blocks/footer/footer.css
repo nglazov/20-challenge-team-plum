@@ -3,4 +3,11 @@
   display: flex;
   flex-flow: column;
   box-sizing: border-box;
+  padding-top: 60px;
+}
+
+@media screen and (min-width: 735px) {
+  .footer {
+    flex-direction: row;
+  }
 }

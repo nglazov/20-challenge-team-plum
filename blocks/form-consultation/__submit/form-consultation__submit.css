@@ -1,0 +1,9 @@
+.form-consultation__submit {
+  margin-top: 37px;
+}
+
+@media screen and (min-width: 1280px) {
+  .form-consultation__submit {
+    margin-top: 28px;
+  }
+}

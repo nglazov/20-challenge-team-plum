@@ -1,0 +1,12 @@
+.form-consultation__form {
+  background: #FFFFFF;
+  box-shadow: -5px 5px 0px #FFC41D;
+  border-radius: 5px;
+  padding: 38px 22px 48px;
+}
+
+@media screen and (min-width: 1280px) {
+  .form-consultation__form {
+    padding: 47px 39px 61px;
+  }
+}

@@ -1,0 +1,29 @@
+.form-consultation__name {
+  width: 100%;
+  padding: 18px 25px 18px 52px;
+  box-sizing: border-box;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 28px;
+  /* or 200% */
+  display: flex;
+  align-items: center;
+  color: #949494;
+  background: #F8F8F8;
+  box-shadow: inset 0px 3px 10px rgba(199, 199, 199, 0.25);
+  border-radius: 5px;
+  border: none;
+  background-image: url("../../../images/user-icon.svg");
+  background-repeat: no-repeat;
+  background-position: 24px center;
+  margin-bottom: 18px;
+}
+
+@media screen and (min-width: 1280px) {
+  .form-consultation__name {
+    padding: 22px 25px 21px 52px;
+    margin-bottom: 20px;
+  }
+}

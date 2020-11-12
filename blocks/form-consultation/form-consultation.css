@@ -1,0 +1,12 @@
+.form-consultation {
+  max-width: 267px;
+  box-sizing: border-box;
+  padding: 0 0 5px 5px;
+}
+
+@media screen and (min-width: 1280px) {
+  .form-consultation {
+    max-width: 458px;
+  }
+}
+
