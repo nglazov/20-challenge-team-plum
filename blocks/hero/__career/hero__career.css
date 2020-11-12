@@ -1,0 +1,10 @@
+.hero__career {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 27px;
+  /* identical to box height, or 169% */
+  color: #FFBB01;
+  margin: 0 0 4px;
+}
