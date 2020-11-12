@@ -1,0 +1,18 @@
+.gallery__item {
+  width: 126px;
+  height: 126px;
+}
+
+@media only screen and (min-width: 450px) {
+  .gallery__item {
+    width: 334px;
+    height: 387px;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .gallery__item {
+    width: 224px;
+    height: 224px;
+  }
+}

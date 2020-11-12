@@ -1,0 +1,6 @@
+.footer {
+  background-color: #1B2944;
+  display: flex;
+  flex-flow: column;
+  box-sizing: border-box;
+}

@@ -1,6 +1,45 @@
 @import url('../vendor/normalize.css');
 @import url('../vendor/fonts.css');
 
+/* Page */
+
+@import url('../blocks/page/page.css');
+
+/* Portfolio */
+
+@import url('../blocks/potfolio/portfolio.css');
+@import url('../blocks/potfolio/__wrapper/portfolio__wrapper.css');
+@import url('../blocks/potfolio/__card/portfolio__card.css');
+@import url('../blocks/potfolio/__cards/portfolio__cards.css');
+@import url('../blocks/potfolio/__content/portfolio__content.css');
+@import url('../blocks/potfolio/__header/portfolio__header.css');
+@import url('../blocks/potfolio/__image/portfolio__image.css');
+@import url('../blocks/potfolio/__subtitle/portfolio__subtitle.css');
+@import url('../blocks/potfolio/__button/portfolio__button.css');
+@import url('../blocks/potfolio/__gradient/portfolio__gradient.css');
+
+/* Gallery */
+
+@import url('../blocks/gallery/gallery.css');
+@import url('../blocks/gallery/__image/gallery__image.css');
+@import url('../blocks/gallery/__item/gallery__item.css');
+@import url('../blocks/gallery/__items/gallery__items.css');
+@import url('../blocks/gallery/__progress/gallery__progress.css');
+@import url('../blocks/gallery/__wrapper/gallery__wrapper.css');
+
+/* Footer */
+
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/footer/__confidential/footer__confidential.css');
+@import url('../blocks/footer/__contacts/footer__contacts.css');
+@import url('../blocks/footer/__infobox/footer__infobox.css');
+@import url('../blocks/footer/__line/footer__line.css');
+@import url('../blocks/footer/__subtitle/footer__subtitle.css');
+@import url('../blocks/footer/__networks/footer__networks.css');
+@import url('../blocks/footer/__links/footer__links.css');
+
+/* social-ico */
+
 @import url("../blocks/page/__container/page__container.css");
 
 @import url("../blocks/header/header.css");
@@ -8,6 +47,7 @@
 
 @import url("../blocks/logo/logo.css");
 @import url("../blocks/logo/__image/logo__image.css");
+
 
 @import url("../blocks/social-ico/social-ico.css");
 @import url("../blocks/social-ico/__items/social-ico__items.css");
