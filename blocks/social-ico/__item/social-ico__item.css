@@ -1,0 +1,13 @@
+.social-ico__item {
+  margin-right: 13px;
+}
+
+.social-ico__item:last-child {
+  margin-right: 0;
+}
+
+@media screen and (min-width: 1280px) {
+  .social-ico__item {
+    margin-right: 21px;
+  }
+}
