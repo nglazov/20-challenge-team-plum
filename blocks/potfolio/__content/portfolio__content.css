@@ -1,12 +1,12 @@
 .portfolio__content {
   position: absolute;
   left: 24px;
-  bottom: 29px;
+  bottom: 36px;
 }
 
 @media only screen and (min-width: 1024px) {
   .portfolio__content {
     left: 30px;
-    bottom: 32px;
+    bottom: 39px;
   }
 }
