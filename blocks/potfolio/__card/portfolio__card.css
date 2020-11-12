@@ -1,10 +1,10 @@
 .portfolio__card {
   position: relative;
-  margin-bottom: 33px;
+  margin-bottom: 32px;
 }
 
 .portfolio__card:nth-child(3n) {
-  margin-bottom: 89px;
+  margin-bottom: 84px;
 }
 
 @media only screen and (min-width: 1024px) {

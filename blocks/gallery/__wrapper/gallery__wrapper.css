@@ -1,0 +1,10 @@
+.gallery__wrapper {
+  margin: 0 26px 0 27px;
+  padding-top: 35px;
+}
+
+@media only screen and (min-width: 450px) {
+  .gallery__wrapper {
+    padding: 96px 0;
+  }
+}
