@@ -14,7 +14,13 @@
   transition: 0.2s;
 }
 
-.hero__consultation:hover {
+.consultation:hover {
   cursor: pointer;
   opacity: 0.8;
+}
+
+@media screen and (min-width: 1280px) {
+  .consultation {
+    font-size: 12px;
+  }
 }

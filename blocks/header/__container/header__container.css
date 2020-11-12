@@ -5,3 +5,10 @@
   display: flex;
   justify-content: space-between;
 }
+
+@media screen and (min-width: 1280px) {
+  .header__container {
+    padding-top: 41px;
+    padding-bottom: 41px;
+  }
+}

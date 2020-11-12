@@ -7,3 +7,18 @@
   object-fit: cover;
   margin-bottom: 17px;
 }
+
+@media screen and (min-width: 1024px) {
+  .hero__avatar {
+    width: 300px;
+    height: 300px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .hero__avatar {
+    width: 384px;
+    height: 384px;
+    border: 10px solid #C4C4C4;
+  }
+}
