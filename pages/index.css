@@ -39,15 +39,19 @@
 /* @import url('../blocks/footer/__links/footer__links.css'); */
 @import url('../blocks/footer/__form/footer__form.css');
 /* @import url('../blocks/footer/__contact-wrap/footer__contact-wrap.css'); */
-@import url('../blocks/footer/__title/foooter__title.css');
+@import url('../blocks/footer/__title/footer__title.css');
 @import url('../blocks/footer/__social-box/footer__social-box.css');
 @import url('../blocks/footer/__social-ico/footer__social-ico.css');
+@import url('../blocks/footer/__container/footer__container.css');
+@import url('../blocks/footer/__column/footer__column.css');
 
 @import url('../blocks/info-box/info-box.css');
+@import url('../blocks/info-box/__card/info-box__card.css');
 @import url('../blocks/info-box/__subtitle/info-box__subtitle.css');
 @import url('../blocks/info-box/__line/info-box__line.css');
 @import url('../blocks/info-box/__link/info-box__link.css');
 
+@import url('../blocks/social-box/social-box.css');
 @import url('../blocks/social-box/__subtitle/social-box__subtitle.css');
 @import url('../blocks/social-box/__items/social-box__items.css');
 @import url('../blocks/social-box/__item/social-box__item.css');
@@ -70,6 +74,7 @@
 @import url("../blocks/social-ico/__item/social-ico__item.css");
 @import url("../blocks/social-ico/__link/social-ico__link.css");
 @import url("../blocks/social-ico/__img/social-ico__img.css");
+@import url("../blocks/social-ico/_place/social-ico_place_footer.css");
 
 @import url("../blocks/hero/hero.css");
 @import url("../blocks/hero/__container/hero__container.css");

@@ -17,7 +17,8 @@
 
 @media screen and (min-width: 735px) {
   .footer__confidential {
-    position: absolute;
-    bottom: 50px;
+    margin-top: auto;
+    /* position: absolute; */
+    /* bottom: 0; */
   }
 }

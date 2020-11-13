@@ -1,3 +1,13 @@
-.social-box {
-
+@media screen and (min-width: 450px) {
+  .social-box {
+    text-align: center;
+  }
 }
+
+@media screen and (min-width: 735px) {
+  .social-box {
+    text-align: left;
+  }
+}
+
+

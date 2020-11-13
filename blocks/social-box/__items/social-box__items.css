@@ -3,3 +3,10 @@
   margin: 0;
   padding: 0;
 }
+
+@media screen and (min-width: 450px) {
+  .social-box__items {
+    display: flex;
+    justify-content: center;
+  }
+}

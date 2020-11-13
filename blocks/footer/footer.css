@@ -14,3 +14,9 @@
     /* justify-content: space-around; */
   }
 }
+
+@media screen and (min-width: 735px) {
+  .footer {
+    padding-bottom: 93px;
+  }
+}

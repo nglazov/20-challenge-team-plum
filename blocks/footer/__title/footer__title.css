@@ -21,7 +21,7 @@
   .footer__title {
     font-size: 36px;
     line-height: 42px;
+    margin-left: 0;
     margin-bottom: 90px;
-    margin-left: 168px;
   }
 }
