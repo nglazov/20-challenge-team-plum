@@ -14,3 +14,10 @@
   cursor: pointer;
   opacity: 0.8;
 }
+
+@media screen and (min-width: 735px) {
+  .footer__confidential {
+    position: absolute;
+    bottom: 50px;
+  }
+}

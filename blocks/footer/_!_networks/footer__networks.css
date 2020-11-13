@@ -1,0 +1,14 @@
+.footer__networks {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+}
+
+@media screen and (min-width: 353px) {
+  .footer__networks {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}

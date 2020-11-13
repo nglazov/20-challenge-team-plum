@@ -31,13 +31,28 @@
 
 @import url('../blocks/footer/footer.css');
 @import url('../blocks/footer/__confidential/footer__confidential.css');
-@import url('../blocks/footer/__contacts/footer__contacts.css');
-@import url('../blocks/footer/__infobox/footer__infobox.css');
-@import url('../blocks/footer/__line/footer__line.css');
-@import url('../blocks/footer/__subtitle/footer__subtitle.css');
-@import url('../blocks/footer/__networks/footer__networks.css');
-@import url('../blocks/footer/__links/footer__links.css');
+/* @import url('../blocks/footer/__contacts/footer__contacts.css'); */
+/* @import url('../blocks/footer/__infobox/footer__infobox.css'); */
+/* @import url('../blocks/footer/__line/footer__line.css'); */
+/* @import url('../blocks/footer/__subtitle/footer__subtitle.css'); */
+/* @import url('../blocks/footer/__networks/footer__networks.css'); */
+/* @import url('../blocks/footer/__links/footer__links.css'); */
 @import url('../blocks/footer/__form/footer__form.css');
+/* @import url('../blocks/footer/__contact-wrap/footer__contact-wrap.css'); */
+@import url('../blocks/footer/__title/foooter__title.css');
+@import url('../blocks/footer/__social-box/footer__social-box.css');
+@import url('../blocks/footer/__social-ico/footer__social-ico.css');
+
+@import url('../blocks/info-box/info-box.css');
+@import url('../blocks/info-box/__subtitle/info-box__subtitle.css');
+@import url('../blocks/info-box/__line/info-box__line.css');
+@import url('../blocks/info-box/__link/info-box__link.css');
+
+@import url('../blocks/social-box/__subtitle/social-box__subtitle.css');
+@import url('../blocks/social-box/__items/social-box__items.css');
+@import url('../blocks/social-box/__item/social-box__item.css');
+@import url('../blocks/social-box/__link/social-box__link.css');
+
 
 /* social-ico */
 
@@ -82,4 +97,3 @@
 @import url("../blocks/form-consultation/__phone/form-consultation__phone.css");
 @import url("../blocks/form-consultation/__submit/form-consultation__submit.css");
 @import url("../blocks/form-consultation/__text/form-consultation__text.css");
-@import url("../blocks/form-consultation/__title/form-consultation__title.css");

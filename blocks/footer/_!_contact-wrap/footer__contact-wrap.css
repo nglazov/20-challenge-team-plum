@@ -1,0 +1,13 @@
+.footer__contact-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+@media screen and (min-width: 1280px) {
+  .footer__contact-wrap {
+    justify-content: flex-start;
+    /* flex-wrap: nowrap; */
+  }
+}

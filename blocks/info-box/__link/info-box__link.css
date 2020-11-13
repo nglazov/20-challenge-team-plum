@@ -1,0 +1,13 @@
+.info-box__link {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  color: #FFFFFF;
+  transition: 0.2s;
+}
+
+.info-box__link:hover {
+  opacity: 0.8;
+}

@@ -1,0 +1,23 @@
+.footer__contacts {
+  margin: 0 26px 0 27px;
+  padding-bottom: 50px;
+  position: relative;
+}
+
+@media screen and (min-width: 353px) {
+  .footer__contacts {
+    max-width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .footer__contacts {
+    max-width: 350px;
+    margin-left: 50px;
+    margin-right: 0;
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+  }
+}

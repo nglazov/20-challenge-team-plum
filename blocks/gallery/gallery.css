@@ -2,3 +2,9 @@
   background-color: #141F35;
   padding: 35px 26px 35px 27px;
 }
+
+@media screen and (min-width: 1280px) {
+  .gallery {
+    padding-bottom: 5px;
+  }
+}

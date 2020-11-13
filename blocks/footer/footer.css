@@ -4,10 +4,13 @@
   flex-flow: column;
   box-sizing: border-box;
   padding-top: 60px;
+  padding-bottom: 50px;
 }
 
 @media screen and (min-width: 735px) {
   .footer {
     flex-direction: row;
+    flex-wrap: wrap;
+    /* justify-content: space-around; */
   }
 }

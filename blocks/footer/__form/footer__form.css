@@ -1,3 +1,17 @@
 .footer__form {
   margin: 0 auto 50px;
 }
+
+@media screen and (min-width: 768px) {
+  .footer__form {
+    margin-left: 27px;
+    margin-right: 50px;
+  }
+}
+
+@media screen and (min-width: 1268px) {
+  .footer__form {
+    margin-left: 168px;
+    /* margin-right: 96px; */
+  }
+}

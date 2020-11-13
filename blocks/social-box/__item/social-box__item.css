@@ -1,0 +1,7 @@
+.social-box__item {
+  margin-bottom: 13px;
+}
+
+.social-box__item:last-child {
+  margin-bottom: 0;
+}
